@@ -43,6 +43,11 @@ img{
   padding: 15px;
 }
 
+.card-text-date{
+  font-size: 10px;
+  text-align: end;
+}
+
 form {
   text-align: center;
 }
